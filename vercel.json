@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "renders": [
+    { "src": "index.tsx", "use": "@vercel/static-build" }
+  ]
+}
